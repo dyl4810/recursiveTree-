@@ -1,3 +1,12 @@
+Added an option to either show/hide the root node.
+
+Can handle both flat and nested tree data.
+
+Example of using the component:
+<FlatTree dataName = 'treeDataFlat' showRoot={false}/>
+<NestedTree dataName ='treeDataNested' showRoot = {true}/>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,22 @@
+
+  .App{
+    display: flex;
+    height: 100vh;
+  }
+  .sideNav-Container{
+    display: flex;
+    height: 100vh;
+    background-color: hsl(0, 0%, 95%);
+  }
+  .sideNav-One{
+    min-width: 200px;
+    max-width: 200px;    
+  }
+  .sideNav-Two{
+    min-width: 200px;
+    max-width: 200px;
+  }
+  .arrow{
+    cursor: pointer;
+  }
+
